@@ -1,0 +1,7 @@
+cd ruta/del/archivo
+git init
+git add adivina_el_numero.py
+git commit -m "Mi primer juego en Python: Adivina el número"
+git branch -M main
+git remote add origin https://github.com/tu-usuario/adivina-el-numero.git
+git push -u origin main
